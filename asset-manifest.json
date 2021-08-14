@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Weather-App-React/static/css/main.b143a3d3.chunk.css",
-    "main.js": "/Weather-App-React/static/js/main.5ce60ccd.chunk.js",
-    "main.js.map": "/Weather-App-React/static/js/main.5ce60ccd.chunk.js.map",
-    "runtime-main.js": "/Weather-App-React/static/js/runtime-main.29264844.js",
-    "runtime-main.js.map": "/Weather-App-React/static/js/runtime-main.29264844.js.map",
-    "static/js/2.7c878e54.chunk.js": "/Weather-App-React/static/js/2.7c878e54.chunk.js",
-    "static/js/2.7c878e54.chunk.js.map": "/Weather-App-React/static/js/2.7c878e54.chunk.js.map",
-    "index.html": "/Weather-App-React/index.html",
-    "static/css/main.b143a3d3.chunk.css.map": "/Weather-App-React/static/css/main.b143a3d3.chunk.css.map",
-    "static/js/2.7c878e54.chunk.js.LICENSE.txt": "/Weather-App-React/static/js/2.7c878e54.chunk.js.LICENSE.txt",
-    "static/media/React-icon.73ac128a.png": "/Weather-App-React/static/media/React-icon.73ac128a.png",
-    "static/media/index.css": "/Weather-App-React/static/media/bg2.bac3930f.jpg"
+    "main.css": "/weatherAppReact/static/css/main.eb31f528.chunk.css",
+    "main.js": "/weatherAppReact/static/js/main.dc7ba5f5.chunk.js",
+    "main.js.map": "/weatherAppReact/static/js/main.dc7ba5f5.chunk.js.map",
+    "runtime-main.js": "/weatherAppReact/static/js/runtime-main.9566923f.js",
+    "runtime-main.js.map": "/weatherAppReact/static/js/runtime-main.9566923f.js.map",
+    "static/js/2.7c878e54.chunk.js": "/weatherAppReact/static/js/2.7c878e54.chunk.js",
+    "static/js/2.7c878e54.chunk.js.map": "/weatherAppReact/static/js/2.7c878e54.chunk.js.map",
+    "index.html": "/weatherAppReact/index.html",
+    "static/css/main.eb31f528.chunk.css.map": "/weatherAppReact/static/css/main.eb31f528.chunk.css.map",
+    "static/js/2.7c878e54.chunk.js.LICENSE.txt": "/weatherAppReact/static/js/2.7c878e54.chunk.js.LICENSE.txt",
+    "static/media/React-icon.73ac128a.png": "/weatherAppReact/static/media/React-icon.73ac128a.png",
+    "static/media/index.css": "/weatherAppReact/static/media/bg2.bac3930f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.29264844.js",
+    "static/js/runtime-main.9566923f.js",
     "static/js/2.7c878e54.chunk.js",
-    "static/css/main.b143a3d3.chunk.css",
-    "static/js/main.5ce60ccd.chunk.js"
+    "static/css/main.eb31f528.chunk.css",
+    "static/js/main.dc7ba5f5.chunk.js"
   ]
 }
